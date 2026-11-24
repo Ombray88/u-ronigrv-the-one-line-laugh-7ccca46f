@@ -1,3 +1,5 @@
+"""An everyday truth about mindfulness apps: seeking inner peace through daily tracking,
+with the surprise twist that maintaining the streak itself becomes the new anxiety."""
 import os
 
 def main():
